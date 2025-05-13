@@ -1,0 +1,19 @@
+#Hardware Requirements
+
+1) Arduino UNO (or compatible board)
+
+2) 4-digit 7-segment display (e.g., TM1637 or common-cathode display)
+
+3) TM1637 display module (recommended for simplicity)
+
+4) Buzzer (optional)
+
+5) Push button (to flip/reset the timer)
+
+6) Jumper wires
+
+
+#Concept
+
+Countdown timer (like a sand clock). Automatically flips/restarts when it reaches 0. Optionally, use a button to manually flip it.
+Display remaining time on 4-digit 7-segment
