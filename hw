@@ -17,3 +17,13 @@
 
 Countdown timer (like a sand clock). Automatically flips/restarts when it reaches 0. Optionally, use a button to manually flip it.
 Display remaining time on 4-digit 7-segment
+
+#Features
+
+Displays countdown in MM:SS format
+
+Resets after reaching 00:00
+
+Manual reset/flip via button
+
+Buzzer alerts when time is up
